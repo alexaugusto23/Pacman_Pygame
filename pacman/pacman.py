@@ -3,7 +3,7 @@ import pygame.display as display
 import pygame.event as event
 import pygame.draw as draw
 
-# Contantes
+# Constantes
 SCREEN_SIZE = (1280,768)
 AMARELO = (255,255,0)
 PRETO = (0,0,0)
@@ -11,7 +11,7 @@ VELOCIDADE = 1
 RAIO = 30
 
 
-# Variaveis
+# Variáveis
 x = 10
 y = 10
 vel_x = VELOCIDADE
